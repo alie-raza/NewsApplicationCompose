@@ -1,0 +1,59 @@
+org.newskmp.app.composeApp-runtime-release-0 /Users/Ali/.gradle/caches/transforms-3/018166199c4ecb9a6c4e9be811b074a8/transformed/runtime-release/res
+org.newskmp.app.composeApp-startup-runtime-1.1.1-1 /Users/Ali/.gradle/caches/transforms-3/04a596a5bb384a0a23558fa45ce34cb9/transformed/startup-runtime-1.1.1/res
+org.newskmp.app.composeApp-material-ripple-release-2 /Users/Ali/.gradle/caches/transforms-3/0e1fbe56041f7384b0c1e3c76e61de91/transformed/material-ripple-release/res
+org.newskmp.app.composeApp-androidsvg-aar-1.4-3 /Users/Ali/.gradle/caches/transforms-3/1c1a7ee9c7ff4d110be32e0411bfe0d6/transformed/androidsvg-aar-1.4/res
+org.newskmp.app.composeApp-ui-graphics-release-4 /Users/Ali/.gradle/caches/transforms-3/1eb220715a7aed9d98b2d51c16a2df5c/transformed/ui-graphics-release/res
+org.newskmp.app.composeApp-lifecycle-viewmodel-savedstate-2.6.2-5 /Users/Ali/.gradle/caches/transforms-3/22ab1c21122b7ecbe43ad25c502458dc/transformed/lifecycle-viewmodel-savedstate-2.6.2/res
+org.newskmp.app.composeApp-foundation-release-6 /Users/Ali/.gradle/caches/transforms-3/278a6f1d994eff2a540178c62a1a234f/transformed/foundation-release/res
+org.newskmp.app.composeApp-ui-util-release-7 /Users/Ali/.gradle/caches/transforms-3/2802ad9d73189528d7224a8ca76e0895/transformed/ui-util-release/res
+org.newskmp.app.composeApp-core-ktx-1.12.0-8 /Users/Ali/.gradle/caches/transforms-3/3bc7db9913b4c9fe593921d1a6b55013/transformed/core-ktx-1.12.0/res
+org.newskmp.app.composeApp-core-runtime-2.2.0-9 /Users/Ali/.gradle/caches/transforms-3/3d4f73711a7a5ec4ad9a6be596be84c3/transformed/core-runtime-2.2.0/res
+org.newskmp.app.composeApp-foundation-layout-release-10 /Users/Ali/.gradle/caches/transforms-3/418d989fb403a7749d1af60b290cd1ec/transformed/foundation-layout-release/res
+org.newskmp.app.composeApp-material-icons-extended-release-11 /Users/Ali/.gradle/caches/transforms-3/437436f06045266443d4934828c4739a/transformed/material-icons-extended-release/res
+org.newskmp.app.composeApp-ui-geometry-release-12 /Users/Ali/.gradle/caches/transforms-3/47f8c68be9298373a38ea0684eb5b7e3/transformed/ui-geometry-release/res
+org.newskmp.app.composeApp-savedstate-ktx-1.2.1-13 /Users/Ali/.gradle/caches/transforms-3/58de24c95e1cd4da0a4eab78f99e6688/transformed/savedstate-ktx-1.2.1/res
+org.newskmp.app.composeApp-activity-ktx-1.8.0-14 /Users/Ali/.gradle/caches/transforms-3/61717b6faf9604e34dd23d140e4c915b/transformed/activity-ktx-1.8.0/res
+org.newskmp.app.composeApp-fragment-1.3.6-15 /Users/Ali/.gradle/caches/transforms-3/635801efc4561c2b271849f88da2e541/transformed/fragment-1.3.6/res
+org.newskmp.app.composeApp-lifecycle-runtime-ktx-2.6.2-16 /Users/Ali/.gradle/caches/transforms-3/6595d04266b11e5af35702e58f729b3b/transformed/lifecycle-runtime-ktx-2.6.2/res
+org.newskmp.app.composeApp-annotation-experimental-1.3.0-17 /Users/Ali/.gradle/caches/transforms-3/67c312d247e3f03616c12034d968c3a1/transformed/annotation-experimental-1.3.0/res
+org.newskmp.app.composeApp-runtime-saveable-release-18 /Users/Ali/.gradle/caches/transforms-3/6b4003cc61a2abf26a5c96cbbc181417/transformed/runtime-saveable-release/res
+org.newskmp.app.composeApp-material3-1.1.2-19 /Users/Ali/.gradle/caches/transforms-3/6f84c2c6fcc910bbb2aaffc6dfc052dd/transformed/material3-1.1.2/res
+org.newskmp.app.composeApp-animation-release-20 /Users/Ali/.gradle/caches/transforms-3/76645c30f99debacfe7f1de07e6b2999/transformed/animation-release/res
+org.newskmp.app.composeApp-savedstate-1.2.1-21 /Users/Ali/.gradle/caches/transforms-3/78a470be1c53afd48ea2a52d8fef367e/transformed/savedstate-1.2.1/res
+org.newskmp.app.composeApp-customview-poolingcontainer-1.0.0-22 /Users/Ali/.gradle/caches/transforms-3/7c252a2ad89bda00c2c8bb23160e6ca6/transformed/customview-poolingcontainer-1.0.0/res
+org.newskmp.app.composeApp-ui-unit-release-23 /Users/Ali/.gradle/caches/transforms-3/7e5ea11013928478bff1319350e8cf8e/transformed/ui-unit-release/res
+org.newskmp.app.composeApp-lifecycle-process-2.6.2-24 /Users/Ali/.gradle/caches/transforms-3/80b772e05fc17ce0eb4df622185f6f37/transformed/lifecycle-process-2.6.2/res
+org.newskmp.app.composeApp-ui-tooling-preview-release-25 /Users/Ali/.gradle/caches/transforms-3/83ea5abf09feb1b6c4b6872ead2ac38d/transformed/ui-tooling-preview-release/res
+org.newskmp.app.composeApp-material-icons-core-release-26 /Users/Ali/.gradle/caches/transforms-3/8bd2cbe3c84aca55452016dfcc4b02fd/transformed/material-icons-core-release/res
+org.newskmp.app.composeApp-activity-1.8.0-27 /Users/Ali/.gradle/caches/transforms-3/8f7eff380ea875009db187dd5c837a6a/transformed/activity-1.8.0/res
+org.newskmp.app.composeApp-lifecycle-livedata-core-2.6.2-28 /Users/Ali/.gradle/caches/transforms-3/99d6d369e626ac0391b3fc6ce1536c73/transformed/lifecycle-livedata-core-2.6.2/res
+org.newskmp.app.composeApp-material-release-29 /Users/Ali/.gradle/caches/transforms-3/9ccbc2197bc474cdf7ccf0d96157a3f8/transformed/material-release/res
+org.newskmp.app.composeApp-profileinstaller-1.3.0-30 /Users/Ali/.gradle/caches/transforms-3/a9458c4e3f8a88797b08c30324d3a67d/transformed/profileinstaller-1.3.0/res
+org.newskmp.app.composeApp-ui-tooling-data-release-31 /Users/Ali/.gradle/caches/transforms-3/aa850586ca266b06ec9264ccdc8ceadc/transformed/ui-tooling-data-release/res
+org.newskmp.app.composeApp-ui-tooling-release-32 /Users/Ali/.gradle/caches/transforms-3/abd826c98865567d0030096115915560/transformed/ui-tooling-release/res
+org.newskmp.app.composeApp-emoji2-views-helper-1.4.0-33 /Users/Ali/.gradle/caches/transforms-3/bbb9a812c1eee27804cd029d4f8c1619/transformed/emoji2-views-helper-1.4.0/res
+org.newskmp.app.composeApp-lifecycle-runtime-2.6.2-34 /Users/Ali/.gradle/caches/transforms-3/bbfc7ef9db3eb483e6907fbcd1fa0b7c/transformed/lifecycle-runtime-2.6.2/res
+org.newskmp.app.composeApp-ui-text-release-35 /Users/Ali/.gradle/caches/transforms-3/c22f17f0a09e60a8d2afd4f4d2333c87/transformed/ui-text-release/res
+org.newskmp.app.composeApp-activity-compose-1.8.0-36 /Users/Ali/.gradle/caches/transforms-3/c29fa9e68ecb571a6cf3b35c72960e0e/transformed/activity-compose-1.8.0/res
+org.newskmp.app.composeApp-appcompat-resources-1.6.1-37 /Users/Ali/.gradle/caches/transforms-3/cb5c5b7cf227142cf9f3142df42257f7/transformed/appcompat-resources-1.6.1/res
+org.newskmp.app.composeApp-appcompat-1.6.1-38 /Users/Ali/.gradle/caches/transforms-3/d5cad8ac2b4b360bb1509cc560f694e8/transformed/appcompat-1.6.1/res
+org.newskmp.app.composeApp-lifecycle-viewmodel-ktx-2.6.2-39 /Users/Ali/.gradle/caches/transforms-3/db17031501b7351c98b83209574db071/transformed/lifecycle-viewmodel-ktx-2.6.2/res
+org.newskmp.app.composeApp-animation-core-release-40 /Users/Ali/.gradle/caches/transforms-3/dd6032d58defbf48fc280d94bfc42de0/transformed/animation-core-release/res
+org.newskmp.app.composeApp-lifecycle-livedata-2.6.2-41 /Users/Ali/.gradle/caches/transforms-3/def2a5bda2cea424518c013a6f8a268b/transformed/lifecycle-livedata-2.6.2/res
+org.newskmp.app.composeApp-ui-release-42 /Users/Ali/.gradle/caches/transforms-3/e055d9e58b13453f8b3bc28163aad0a1/transformed/ui-release/res
+org.newskmp.app.composeApp-lifecycle-viewmodel-2.6.2-43 /Users/Ali/.gradle/caches/transforms-3/e5aac4bb400b3991f72460004c8b8249/transformed/lifecycle-viewmodel-2.6.2/res
+org.newskmp.app.composeApp-emoji2-1.4.0-44 /Users/Ali/.gradle/caches/transforms-3/e5f7ec7a7684c8d0fbeb88aedea54c18/transformed/emoji2-1.4.0/res
+org.newskmp.app.composeApp-core-i18n-1.0.0-alpha01-45 /Users/Ali/.gradle/caches/transforms-3/f0b0c2b3e03ac410bc1140afc2f7d056/transformed/core-i18n-1.0.0-alpha01/res
+org.newskmp.app.composeApp-lifecycle-viewmodel-compose-2.6.2-46 /Users/Ali/.gradle/caches/transforms-3/f9db46b56d63318700422041105678b3/transformed/lifecycle-viewmodel-compose-2.6.2/res
+org.newskmp.app.composeApp-core-1.12.0-47 /Users/Ali/.gradle/caches/transforms-3/fa1a008f299fc015cb063200d5e0d4c8/transformed/core-1.12.0/res
+org.newskmp.app.composeApp-android-48 /Users/Ali/Desktop/Kmp project/News-KMP/composeApp/build/generated/libres/android/resources
+org.newskmp.app.composeApp-pngs-49 /Users/Ali/Desktop/Kmp project/News-KMP/composeApp/build/generated/res/pngs/debug
+org.newskmp.app.composeApp-resValues-50 /Users/Ali/Desktop/Kmp project/News-KMP/composeApp/build/generated/res/resValues/debug
+org.newskmp.app.composeApp-packageDebugResources-51 /Users/Ali/Desktop/Kmp project/News-KMP/composeApp/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+org.newskmp.app.composeApp-packageDebugResources-52 /Users/Ali/Desktop/Kmp project/News-KMP/composeApp/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+org.newskmp.app.composeApp-merged_res-53 /Users/Ali/Desktop/Kmp project/News-KMP/composeApp/build/intermediates/merged_res/debug
+org.newskmp.app.composeApp-androidDebug-54 /Users/Ali/Desktop/Kmp project/News-KMP/composeApp/src/androidDebug/res
+org.newskmp.app.composeApp-androidMain-55 /Users/Ali/Desktop/Kmp project/News-KMP/composeApp/src/androidMain/res
+org.newskmp.app.composeApp-androidMain-56 /Users/Ali/Desktop/Kmp project/News-KMP/composeApp/src/androidMain/resources
+org.newskmp.app.composeApp-debug-57 /Users/Ali/Desktop/Kmp project/News-KMP/composeApp/src/debug/res
+org.newskmp.app.composeApp-main-58 /Users/Ali/Desktop/Kmp project/News-KMP/composeApp/src/main/res
